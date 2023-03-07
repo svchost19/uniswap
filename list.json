@@ -1,5 +1,5 @@
 {
-  "name": "pancakeswap",
+  "name": "LOTUS SWAP",
   "timestamp": "2020-08-25T15:41:29.665Z",
   "version": {
     "major": 1,
@@ -14,14 +14,14 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "chainId": 56,
+      "chainId": 1,
       "decimals": 18
     },
     {
-      "name": "Floki Halloween",
-      "symbol": "FLHW",
-      "address": "0x1e97f2f6d92eb7a2670b5bd08d3e87ea797fa64f",
-      "chainId": 56,
+      "name": "Decentralized Ai Organization",
+      "symbol": "MAGI",
+      "address": "0x54dc15C741196d268eb17858B63B1277cE439581",
+      "chainId": 1,
       "decimals": 9,
       "logo": "/images/coins/wbnb.png"
     }
