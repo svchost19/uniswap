@@ -1,5 +1,5 @@
 {
-  "name": "LOTUS SWAP",
+  "name": "SWAP",
   "timestamp": "2020-08-25T15:41:29.665Z",
   "version": {
     "major": 1,
@@ -7,8 +7,8 @@
     "patch": 1
   },
   "tags": {},
-  "logoURI": "/images/coins/wbnb.png",
-  "keywords": ["pancake", "default"],
+  "logoURI": "/images/coins/weth.png",
+  "keywords": ["uniswap", "default"],
   "tokens": [
     {
       "name": "Wrapped ETH",
@@ -18,12 +18,12 @@
       "decimals": 18
     },
     {
-      "name": "Decentralized Ai Organization",
-      "symbol": "MAGI",
+      "name": "4Chan 2.0",
+      "symbol": "4Chan2.0",
       "address": "0x54dc15C741196d268eb17858B63B1277cE439581",
       "chainId": 1,
       "decimals": 9,
-      "logo": "/images/coins/wbnb.png"
+      "logo": "/images/192x192_App_Icon.png"
     }
   ]
 }
